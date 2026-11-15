@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | ⛪ 구미교회 청년부 | [GumiChurch-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/GumiChurch-Mac.zip) | [GumiChurch-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/GumiChurch-Windows.zip) | [GumiChurch-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/GumiChurch-Android.zip) |
 | 🧗 청년부 클라이밍 동호회 | [ClimbingClub-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Mac.zip) | [ClimbingClub-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Windows.zip) | [ClimbingClub-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Android.zip) |
+| 🎤 드림 찬양팀 | [DreamTeam-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/DreamTeam-Mac.zip) | [DreamTeam-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/DreamTeam-Windows.zip) | [DreamTeam-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/DreamTeam-Android.zip) |
 | 🐹 모찌모찌 | [Mochi-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Mac.zip) | [Mochi-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Windows.zip) | [Mochi-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Android.zip) |
 
 ## 미리 보기
@@ -17,6 +18,10 @@
 🧗 청년부 클라이밍 동호회
 
 ![청년부 클라이밍 동호회](screenshots/climbingclub.png)
+
+🎤 드림 찬양팀
+
+![드림 찬양팀](screenshots/dreamteam.png)
 
 🐹 모찌모찌
 
