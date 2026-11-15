@@ -8,4 +8,18 @@
 | 🧗 청년부 클라이밍 동호회 | [ClimbingClub-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Mac.zip) | [ClimbingClub-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Windows.zip) | [ClimbingClub-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/ClimbingClub-Android.zip) |
 | 🐹 모찌모찌 | [Mochi-Mac.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Mac.zip) | [Mochi-Windows.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Windows.zip) | [Mochi-Android.zip](https://github.com/tejunlee007/desktop-pets-download/releases/latest/download/Mochi-Android.zip) |
 
+## 미리 보기
+
+⛪ 구미교회 청년부
+
+![구미교회 청년부](screenshots/gumichurch.png)
+
+🧗 청년부 클라이밍 동호회
+
+![청년부 클라이밍 동호회](screenshots/climbingclub.png)
+
+🐹 모찌모찌
+
+![모찌모찌](screenshots/mochi.png)
+
 링크는 항상 최신 버전을 받습니다. 설치 방법은 친구에게 받은 안내 페이지를 보세요.
